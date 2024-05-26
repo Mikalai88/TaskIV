@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ec551a4-3d17-4d08-9945-bebdf4272f86" name="Changes" comment="">
+    <list default="true" id="4ec551a4-3d17-4d08-9945-bebdf4272f86" name="Changes" comment="C">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/entity/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/factory/ShipFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/port/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/entity/Dock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/port/entity/Dock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/entity/Ship.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/port/entity/Ship.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/entity/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/port/entity/Warehouse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/service/Port.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/port/service/Port.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/util/PortSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/port/util/PortSingleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/entity/Dock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/entity/Dock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/entity/Ship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/entity/Warehouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/entity/Warehouse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/service/Port.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/service/Port.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/port/util/PortSingleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mikalai/port/util/PortSingleton.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,11 +86,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1716404954926</updated>
-      <workItem from="1716404955986" duration="3698000" />
+      <workItem from="1716404955986" duration="12718000" />
     </task>
+    <task id="LOCAL-00001" summary="C">
+      <option name="closed" value="true" />
+      <created>1716478461657</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716478461657</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="C" />
+    <option name="LAST_COMMIT_MESSAGE" value="C" />
   </component>
 </project>

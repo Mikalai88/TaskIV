@@ -1,6 +1,6 @@
-package com.port.util;
+package com.mikalai.port.util;
 
-import com.port.service.Port;
+import com.mikalai.port.service.Port;
 
 public class PortSingleton {
   private static volatile Port instance;
